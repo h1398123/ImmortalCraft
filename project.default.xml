@@ -1,0 +1,30 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GithubDefaultAccount">
+        <option name="defaultAccountId" value="833d252e-4b4d-449a-944c-e4d793982806" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="D:/GitHub/ImmortalCraft1.12.2" value="PREVIEW" />
+            <entry key="D:/ImmortalCraft" value="PREVIEW" />
+            <entry key="D:/LocalRepository/ImmortalCraft" value="PREVIEW" />
+            <entry key="E:/ImmortalCraft1.12.2" value="PREVIEW" />
+            <entry key="E:/MineCraftForge" value="PREVIEW" />
+            <entry key="F:/Forge" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\h1398\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
